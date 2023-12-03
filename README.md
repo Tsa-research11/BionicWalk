@@ -10,6 +10,7 @@ This repository will include datasets and code for the study "An Integrated Fram
      * Level ground walking
      * Stair ascent
      * Stair descent
+       
 The data includes a reduced feature set for both training and testing purposes.
 
 * Dataset Composition: We extract a feature subset of the  generated  prospective samples corresponding to the originals that we include for easy testing if required.
