@@ -13,11 +13,11 @@ This repository will include datasets and code for the study "An Integrated Fram
        
 The data includes a reduced feature set for both training and testing purposes.
 
-* Dataset Composition: We extract a feature subset of the  generated  prospective samples corresponding to the originals that we include for easy testing if required.
+* Dataset Composition: We extract a feature subset of the  generated  prospective samples corresponding to the originals that we include for easy use when required.
      * Original samples are marked as `Actual=1`.
      * Samples generated using prospective rehearsal are marked as `Actual=0`.
      * The reduced feature set samples created through prospective rehearsal are provided alongside the original data for comparative analysis.
-     * Code: The included code is designed to work with these datasets for an idea of the overall process.
+     * Code: The included code is designed to work with these datasets for an idea of the overall process. More updates will be given and the data will be available upon publication.
  
 
 
