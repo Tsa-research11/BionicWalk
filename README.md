@@ -6,7 +6,7 @@ This repository will include datasets and code for the study "An Integrated Fram
 
 ## Folder Structure and Contents
 
-* 'data/my_data': Contains the datasets used in the study. These datasets are derived from a transtibial amputee subject and cover three locomotion modes:
+* 'data/my_data': Contains a sample of the (reduced feature set) datasets used in the study. These datasets are derived from a transtibial amputee subject and cover three locomotion modes:
      * Level ground walking
      * Stair ascent
      * Stair descent
